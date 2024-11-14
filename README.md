@@ -1,4 +1,4 @@
-# Sephora_Operation_Database
+# Sephora_Operation_SQL_Database
 A database system to capture all the functionalities of Sephora's website 
 
 **Mission Statement**\
